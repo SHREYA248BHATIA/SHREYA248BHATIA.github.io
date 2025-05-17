@@ -7,7 +7,7 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Miftaul Mannan",
+  title: "Shreya Bhatia",
   logo_name: "Miftaul Mannan",
   nickname: null,
   subTitle:

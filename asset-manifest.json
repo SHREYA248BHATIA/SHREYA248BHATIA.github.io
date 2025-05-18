@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-new/static/css/main.b1134363.chunk.css",
-    "main.js": "/portfolio-new/static/js/main.9f32e73e.chunk.js",
-    "main.js.map": "/portfolio-new/static/js/main.9f32e73e.chunk.js.map",
+    "main.js": "/portfolio-new/static/js/main.4509c0a8.chunk.js",
+    "main.js.map": "/portfolio-new/static/js/main.4509c0a8.chunk.js.map",
     "runtime-main.js": "/portfolio-new/static/js/runtime-main.a86ab640.js",
     "runtime-main.js.map": "/portfolio-new/static/js/runtime-main.a86ab640.js.map",
-    "static/js/2.60659091.chunk.js": "/portfolio-new/static/js/2.60659091.chunk.js",
-    "static/js/2.60659091.chunk.js.map": "/portfolio-new/static/js/2.60659091.chunk.js.map",
+    "static/js/2.75b5e61a.chunk.js": "/portfolio-new/static/js/2.75b5e61a.chunk.js",
+    "static/js/2.75b5e61a.chunk.js.map": "/portfolio-new/static/js/2.75b5e61a.chunk.js.map",
     "index.html": "/portfolio-new/index.html",
-    "precache-manifest.808bef8d8617cc4812d5672fe2230aaa.js": "/portfolio-new/precache-manifest.808bef8d8617cc4812d5672fe2230aaa.js",
+    "precache-manifest.72e7afd2b127a8c68ce33ca4a8eee4c2.js": "/portfolio-new/precache-manifest.72e7afd2b127a8c68ce33ca4a8eee4c2.js",
     "service-worker.js": "/portfolio-new/service-worker.js",
     "static/css/main.b1134363.chunk.css.map": "/portfolio-new/static/css/main.b1134363.chunk.css.map",
-    "static/js/2.60659091.chunk.js.LICENSE.txt": "/portfolio-new/static/js/2.60659091.chunk.js.LICENSE.txt",
+    "static/js/2.75b5e61a.chunk.js.LICENSE.txt": "/portfolio-new/static/js/2.75b5e61a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio-new/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/portfolio-new/static/media/address_image.3b021f8f.svg",
     "static/media/android-icon-144x144.png": "/portfolio-new/static/media/android-icon-144x144.49e0ee73.png",
@@ -71,6 +71,7 @@
     "static/media/programmer.svg": "/portfolio-new/static/media/programmer.c1a95f73.svg",
     "static/media/projects_image.svg": "/portfolio-new/static/media/projects_image.f7964c6b.svg",
     "static/media/pwa.png": "/portfolio-new/static/media/pwa.bd5f4148.png",
+    "static/media/shreya-photo.jpeg": "/portfolio-new/static/media/shreya-photo.dfc9024f.jpeg",
     "static/media/skill.svg": "/portfolio-new/static/media/skill.34409398.svg",
     "static/media/stanford_logo.png": "/portfolio-new/static/media/stanford_logo.da0e7c80.png",
     "static/media/sun.svg": "/portfolio-new/static/media/sun.4db24c0e.svg",
@@ -78,12 +79,13 @@
     "static/media/talksCardBackAlt.svg": "/portfolio-new/static/media/talksCardBackAlt.b48e86c9.svg",
     "static/media/tasin.png": "/portfolio-new/static/media/tasin.ed3c02b4.png",
     "static/media/tencon.png": "/portfolio-new/static/media/tencon.16f0e7f3.png",
-    "static/media/ui_ux_design.svg": "/portfolio-new/static/media/ui_ux_design.67a6a11c.svg"
+    "static/media/ui_ux_design.svg": "/portfolio-new/static/media/ui_ux_design.67a6a11c.svg",
+    "static/media/undraw_workspace_s6wf.svg": "/portfolio-new/static/media/undraw_workspace_s6wf.23d0b5a7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a86ab640.js",
-    "static/js/2.60659091.chunk.js",
+    "static/js/2.75b5e61a.chunk.js",
     "static/css/main.b1134363.chunk.css",
-    "static/js/main.9f32e73e.chunk.js"
+    "static/js/main.4509c0a8.chunk.js"
   ]
 }

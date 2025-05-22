@@ -52,7 +52,9 @@
   margin-right: 40px;
   font-family: "Google Sans Medium";
 }
-
+.greeting-image-div {
+  display: flex;
+}
 .greeting-image-div > * {
   max-width: 100%;
   height: auto;
@@ -90,9 +92,9 @@
     display: block;
   }
 
-  .button-greeting-div{
+  .button-greeting-div {
     flex-direction: column;
-    align-items:center;
+    align-items: center;
     margin-right: 0;
   }
 

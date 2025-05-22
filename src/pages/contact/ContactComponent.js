@@ -77,22 +77,22 @@ class Contact extends Component {
                 </div>
               </div>
               <div className="blog-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
-                <BlogsImg theme={theme} />
+                <img
+                  src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
+                  alt=""
+                />
+                {/* <BlogsImg theme={theme} /> */}
               </div>
             </div>
           </Fade>
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
               <div className="contact-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
-                <AddressImg theme={theme} />
+                <img
+                  src={require(`../../assests/images/contactus.svg`)}
+                  alt=""
+                />
+                {/* <AddressImg theme={theme} /> */}
               </div>
               <div className="address-heading-text-div">
                 <h1

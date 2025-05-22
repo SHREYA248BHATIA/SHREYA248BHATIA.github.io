@@ -2,4 +2,4 @@
 
 latest code is in latest/code branch
 -> npm run build
--> npmn run deploy
+-> npm run deploy
